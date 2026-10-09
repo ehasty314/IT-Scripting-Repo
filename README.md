@@ -19,8 +19,8 @@ A collection of PowerShell scripts for day-to-day Windows endpoint support, buil
 
 ```powershell
 # 1. Download the repository
-git clone https://github.com/<your-username>/it-scripts.git
-cd it-scripts
+git clone https://github.com/ehasty314/it_scripting_repo.git
+cd it_scripting_repo
 
 # 2. Allow scripts for this PowerShell window only
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
