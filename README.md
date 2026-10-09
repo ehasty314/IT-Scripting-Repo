@@ -19,7 +19,7 @@ A collection of PowerShell scripts for day-to-day Windows endpoint support, buil
 
 ```powershell
 # 1. Download the repository
-git clone https://github.com/ehasty314/it_scripting_repo.git
+git clone https://github.com/ehasty314/it-scripting-repo.git
 cd it_scripting_repo
 
 # 2. Allow scripts for this PowerShell window only
